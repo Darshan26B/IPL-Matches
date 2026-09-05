@@ -44,7 +44,7 @@ The main objectives of this project are to:
 
 | File | Description |
 |---|---|
-| `ipl_db_Practise(1).ipynb` | Jupyter Notebook containing data cleaning, exploratory analysis, visualizations, and conclusions |
+| `ipl-matches.ipynb` | Jupyter Notebook containing data cleaning, exploratory analysis, visualizations, and conclusions |
 | `ipl-matches.csv` | Original IPL matches dataset used for the analysis |
 | `New_iplData.csv` | Cleaned dataset exported from the notebook |
 | `README.md` | Project documentation |
