@@ -225,29 +225,6 @@ The analysis provides a useful overview of IPL match patterns across seasons, ci
 
 ---
 
-## 📊 Power BI Dashboard
-
-An interactive Power BI dashboard was created to visualize Diwali sales performance.
-
-### Dashboard Highlights
-- Sales and order analysis
-- Customer demographics
-- State-wise sales performance
-- Product category analysis
-- Gender-wise sales insights
-- Interactive filters and slicers
-
-### Dashboard Preview
-
-![Diwali Sales Dashboard](image.png)
-
-### Power BI File
-
-The complete Power BI dashboard is available here:
-
-`Diwali Sales.pbix`
-
-
 ## 👨‍💻 Author
 
 **Darshan Bagthariya**
